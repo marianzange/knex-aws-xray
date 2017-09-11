@@ -1,0 +1,21 @@
+{
+  "name": "knex-aws-xray",
+  "version": "0.0.1",
+  "description": "AWS X-Ray adapter for knex",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marian Zange <marian@crashpad.io>",
+  "keywords": [
+    "amazon",
+    "api",
+    "aws",
+    "mysql",
+    "xray",
+    "x-ray",
+    "x ray",
+    "knex"
+  ],
+  "license": "MIT"
+}
