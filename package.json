@@ -1,6 +1,6 @@
 {
   "name": "knex-aws-xray",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "AWS X-Ray adapter for knex",
   "repository": {
     "type": "git",
